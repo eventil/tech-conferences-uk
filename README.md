@@ -8,6 +8,8 @@ A list of tech conferences that are held in UK.
 
 If you know of an upcoming tech conference in UK, send us a Pull Request or open an issue.
 
+If you prefer a more comprehensive view, with complete details, filters etc, check [this list on Eventil](https://eventil.com/conferences/in/gb) - it provides a web archive for tech conferences.
+
 ## 2018
 
 | Conference | Date | Location | CFP Deadline |
