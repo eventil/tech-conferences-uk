@@ -21,6 +21,7 @@ If you prefer a more comprehensive view, with complete details, filters etc, che
 | [iOSCon 2018](https://eventil.com/events/ioscon-2018) | Mar 22-23 | CodeNode, London | (CLOSED) |
 | [Bath Ruby Conference 2018](https://eventil.com/events/bath-ruby-conference-2018) | Mar 22-23 | The Forum, Bath | (CLOSED) |
 | [Frontend NE: The Conference 2018](https://eventil.com/events/frontend-ne-the-conference-2018) | Apr 5 | Turbine Hall, Newcastle upon Tyne | (CLOSED) |
+| [PHP Yorkshire 2018](https://eventil.com/events/php-yorkshire-2018) | Apr 13-14 | York University, York | (CLOSED) |
 | [IP EXPO Manchester 2018](https://eventil.com/events/ip-expo-manchester-2018) | Apr 25-26 | Manchester Central, Manchester | [Feb 28](https://www.papercall.io/ipm18) |
 | [Frontend NE: The Conference 2018](https://eventil.com/events/frontend-ne-the-conference-2018) | Apr 5 | Turbine Hall, Newcastle upon Tyne | (CLOSED) |
 | [DeltaV Conference 2018](https://eventil.com/events/deltav-conference-2018) | May 10-11 | The QEII Centre, London | (CLOSED) |
