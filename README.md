@@ -16,10 +16,13 @@ If you prefer a more comprehensive view, with complete details, filters etc, che
 |------------|------|----------|--------------|
 | [PHP UK Conference 2018](https://eventil.com/events/php-uk-conference-2018) | Feb 14-16 | The Brewery, London | (CLOSED) |
 | [The Mac Admin & Developer Conference 2018](https://eventil.com/events/the-mac-admin-and-developer-conference-2018) | Feb 20-21 | iconic Leicester Square, London | (CLOSED) |
+| [QCon London](https://qconlondon.com/) | Mar 5-7 | The QEII Conference Center, London | (CLOSED) |
+| [ReactFest](https://reactfest.com/) | Mar 9 | One Embankment, London | (CLOSED) |
 | [UpFront 2018](https://eventil.com/events/upfront-2018) | Mar 16 | Bridgewater Hall, Manchester | (CLOSED) |
 | [Smart IoT London 2018](https://eventil.com/events/smart-iot-london-2018) | Mar 21-22 | ExCel, London | (CLOSED) |
 | [iOSCon 2018](https://eventil.com/events/ioscon-2018) | Mar 22-23 | CodeNode, London | (CLOSED) |
 | [Bath Ruby Conference 2018](https://eventil.com/events/bath-ruby-conference-2018) | Mar 22-23 | The Forum, Bath | (CLOSED) |
+| [CityJSConf](http://cityjsconf.org/) | Mar 26 | City University of London | (CLOSED) |
 | [Frontend NE: The Conference 2018](https://eventil.com/events/frontend-ne-the-conference-2018) | Apr 5 | Turbine Hall, Newcastle upon Tyne | (CLOSED) |
 | [PHP Yorkshire 2018](https://eventil.com/events/php-yorkshire-2018) | Apr 13-14 | York University, York | (CLOSED) |
 | [IP EXPO Manchester 2018](https://eventil.com/events/ip-expo-manchester-2018) | Apr 25-26 | Manchester Central, Manchester | [Feb 28](https://www.papercall.io/ipm18) |
@@ -34,3 +37,4 @@ If you prefer a more comprehensive view, with complete details, filters etc, che
 | [Scotland JS 2018](http://scotlandjs.com/) | Jul 19-20 | Our Dynamic Earth, Edinburgh | [Mar 1](https://www.papercall.io/scotlandjs-2018) |
 | [Progressive .NET London 2018](https://eventil.com/events/progressive-net-london-2018) | Sep 12-14 | CodeNode, London | (CLOSED) |
 | [IP EXPO Europe 2018](https://eventil.com/events/ip-expo-europe-2018) | Oct 3-4 | ExCeL, London| [May 31](https://www.papercall.io/ipe18) |
+| [HalfStack](http://halfstackconf.com/) | Nov 16 | A pub in Shoreditch, London | (OPENS MAR 13) |
