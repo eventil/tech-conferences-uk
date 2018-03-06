@@ -37,4 +37,5 @@ If you prefer a more comprehensive view, with complete details, filters etc, che
 | [Scotland JS 2018](http://scotlandjs.com/) | Jul 19-20 | Our Dynamic Earth, Edinburgh | [Mar 1](https://www.papercall.io/scotlandjs-2018) |
 | [Progressive .NET London 2018](https://eventil.com/events/progressive-net-london-2018) | Sep 12-14 | CodeNode, London | (CLOSED) |
 | [IP EXPO Europe 2018](https://eventil.com/events/ip-expo-europe-2018) | Oct 3-4 | ExCeL, London| [May 31](https://www.papercall.io/ipe18) |
+| [ScotlandPHP 2018](https://scophp.co/2018) | Oct 6th | EICC, Edinburgh | TBC |
 | [HalfStack](http://halfstackconf.com/) | Nov 16 | A pub in Shoreditch, London | (OPENS MAR 13) |
